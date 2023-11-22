@@ -585,7 +585,7 @@ section {
   background-color: hsla(0, 0%, 100%, 0.493);
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.13);
   padding: 20px;
-  border-radius: 75px;
+  border-radius: 50px;
   text-align: center;
 }
 
@@ -600,6 +600,7 @@ section {
   font-size: 28px;
   font-weight: 700;
   color: var(--color-primary);
+  height: 50px;
 }
 
 .about .content ul {
